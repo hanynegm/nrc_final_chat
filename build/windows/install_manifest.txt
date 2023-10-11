@@ -1,0 +1,17 @@
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/icudtl.dat
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/flutter_windows.dll
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/file_selector_windows_plugin.dll
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/url_launcher_windows_plugin.dll
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/assets/images/chat.png
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/assets/images/chat1.jpg
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/assets/images/get_institute.php
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf
+D:/flutter/db_sql_online-main_home/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

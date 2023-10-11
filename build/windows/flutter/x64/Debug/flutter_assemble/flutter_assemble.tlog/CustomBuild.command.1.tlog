@@ -1,0 +1,28 @@
+^D:\FLUTTER\DB_SQL_ONLINE-MAIN_HOME\BUILD\WINDOWS\CMAKEFILES\72C2CBDA9AAFE4FCD4D1E56BC0C7F496\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=D:\flutter\db_sql_online-main_home FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=D:\flutter\db_sql_online-main_home\windows\flutter\ephemeral PROJECT_DIR=D:\flutter\db_sql_online-main_home FLUTTER_TARGET=D:\flutter\db_sql_online-main_home\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\flutter\db_sql_online-main_home\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\FLUTTER\DB_SQL_ONLINE-MAIN_HOME\BUILD\WINDOWS\CMAKEFILES\1909F8E8DEFD78536B5F6A345A2AD72D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\FLUTTER\DB_SQL_ONLINE-MAIN_HOME\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/flutter/db_sql_online-main_home/windows -BD:/flutter/db_sql_online-main_home/build/windows --check-stamp-file D:/flutter/db_sql_online-main_home/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
